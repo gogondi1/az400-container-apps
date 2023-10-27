@@ -32,7 +32,7 @@ stages:
       displayName: Build an image
       inputs:
         command: build
-        dockerfile: '$(Build.SourcesDirectory)/az400-container-apps/Dockerfile'
+        dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
         repository: $(IMAGE_NAME)
         tags: $(TAG)
 
