@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLdTMXBrxYlkWYTvgmBB8JV97b2C8GpqqZnbbKa3M7LjbW2XAM4cF0j7JXYmKzcD3BXqzPAGDUbugeGzmxIgPg==",
+  "success": true,
+  "projectFilePath": "/Users/Gokul.Gondi/Documents/az400/az400-container-apps/albumapi_csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Gokul.Gondi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Gokul.Gondi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Gokul.Gondi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/Gokul.Gondi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/Gokul.Gondi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/Gokul.Gondi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
